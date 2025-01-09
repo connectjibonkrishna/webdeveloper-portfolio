@@ -89,6 +89,17 @@ nav ul {
     margin: 0 35px 0 200px;
 }
 
+.contact-btn{
+    margin-left: 30px;
+    color: #FD6E0A;
+    font-weight: bold;
+    background-color: #FFF8F3;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: 2px solid #FD6E0A;
+    font-size: 20px;
+}
+
 .banner-content{
     max-width: 580px;
 }
@@ -211,4 +222,8 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 24px;
     border: none;
     font-size: 18px;
+}
+
+footer a{
+    margin-right: 15px;
 }
